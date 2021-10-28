@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/main.css"],"sourcesContent":["h1 {\n    color: rgb(255, 105, 113);\n    font-family: cursive;\n  }\nbody{\n    background-color: honeydew;\n}"],"names":[],"version":3,"file":"index.904c1b4c.css.map","sourceRoot":"/__parcel_source_root/"}

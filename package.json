@@ -1,0 +1,14 @@
+{
+    "name": "my-basic-parcel",
+    "source": "src/index.html",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build --no-optimize --no-source-maps --no-cache"
+    },
+    "devDependencies": {
+        "parcel": "^2.0.0"
+    },
+    "dependencies": {
+        "posthtml-doctype": "^1.1.1"
+    }
+}
